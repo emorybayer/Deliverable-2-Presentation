@@ -1,1 +1,3 @@
-# Deliverable-2-Presentation
+This presentation was created based on data from the Urban Social Disorder Global dataset. The objective was to compare the occurrence of social disorder events among cities and regions. Additionally, I wanted to examine the influence of social disorder event occurrences on the number of deadly incidents, defined as events resulting in at least one fatality. The focus was specifically on the Middle East and North Africa (MENA) region, as well as Latin America. Consequently, I filtered the dataset to reflect only these regions.
+
+To visually represent these comparisons, two graphics were generated. The first was a bar graph illustrating the distribution of deadly social disorder events between 1960 and 2014 across various cities in the MENA region. The second visualization was a line plot contrasting the impact of social disorder event occurrences on the frequency of deadly incidents in MENA and Latin America.
